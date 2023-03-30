@@ -17,6 +17,7 @@ A student turns on the GUI program. A window pops up displaying the course list 
 There are buttons to add, delete or update a course. When the user clicks these buttons, it updates course list in database and display updated list in the GUI window.
 There is also a button to calculate whether the student is eligible for the certificate based on the database.
 When the button is clicked, additional window pops up saying ‘You are eligible!” or “You are not qualified yet”
+
 ![image](https://user-images.githubusercontent.com/69747899/228985403-c62056f0-3c80-420d-a342-4bff46105363.png)
 
   
