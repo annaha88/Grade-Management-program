@@ -1,4 +1,4 @@
-# Grade-Management-program-
+# Grade-Management-program
 
 ## 1. Overview of the Design
 
